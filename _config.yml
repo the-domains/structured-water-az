@@ -10,6 +10,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+opengraph:
+  image: null
 layout_spectrum: 0.4401974971406162
 author:
   name: Michael
