@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-18T19:32:45.566Z'
+datePublished: '2016-07-18T19:55:46.570Z'
 sourcePath: _posts/2016-07-18-what-is-structured-watertm.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=UkZNpeekiXs'
 keywords: []
 related: []
 author: []
-dateModified: '2016-07-18T19:32:14.938Z'
+dateModified: '2016-07-18T19:54:57.363Z'
 title: Watch this video to understand what Structured Water is!
 app_links: []
 publisher:
@@ -14,12 +14,11 @@ publisher:
   favicon: 'https://www.youtube.com/favicon.ico'
   domain: www.youtube.com
 description: >-
-  Structured Water is created by the natural action of water in nature.
-  http://www.NaturalActionTechnologies.com The natural action of water tumbling
-  over rocks, down waterfalls, flowing through twists and turns as it actively
-  descends a mountain actually structures water. Water molecules are free to
-  move and "dance with nature" in an energetically alive, fresh and vibrant
-  manner.
+  Structured Water is created by the natural action of water in nature. The
+  natural action of water tumbling over rocks, down waterfalls, flowing through
+  twists and turns as it actively descends a mountain actually structures water.
+  Water molecules are free to move and "dance with nature" in an energetically
+  alive, fresh and vibrant manner.
 starred: false
 inFeed: true
 hasPage: false
