@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Structure your water...Structure your breathing...Structure your life!]]></title>
+        <description><![CDATA[Structure your water...Structure your breathing...Structure your life!]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Jul 2016 19:24:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What is Structured Water™]]></title>
+            <description><![CDATA[<article><h1>What is Structured Water™</h1><p>Structured Water is created by the natural action of water in nature. http://www.NaturalActionTechnologies.com The natural action of water tumbling over rocks, down waterfalls, flowing through twists and turns as it actively descends a mountain actually structures water. Water molecules are free to move and "dance with nature" in an energetically alive, fresh and vibrant manner.</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=UkZNpeekiXs</link>
+            <guid isPermaLink="false">95f4be0d-8a28-4470-87bd-e633eab27ded</guid>
+            <pubDate>Mon, 18 Jul 2016 19:24:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
