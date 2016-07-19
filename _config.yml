@@ -1,4 +1,3 @@
-layout_spectrum: 0.4401974971406162
 typography_spectrum: 0.6168448934331536
 color:
   brandStrength: 0.6840533458162099
@@ -11,6 +10,11 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.4401974971406162
+author:
+  name: Michael
+  email: info@structuredwateraz.com
+  url: 'http://structuredwateraz.com'
 name: Structured Water AZ
 navigation:
   - id: 'http://structuredwateraz.com'
@@ -21,3 +25,4 @@ navigation:
     url: 'http://structuredwateraz.com/about'
     name: About
     type: external
+title: Structure your water...Structure your breathing...Structure your life!
