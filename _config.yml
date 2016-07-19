@@ -6,9 +6,14 @@ color:
   saturation: 0.46367837488651276
   rhythmicContrast: 0.1190468817949295
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: Structured Water AZ
+navigation:
+  - id: 'http://structuredwateraz.com'
+    url: 'http://structuredwateraz.com'
+    name: Store
+    type: external
