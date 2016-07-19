@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-18T19:55:46.570Z'
+datePublished: '2016-07-18T19:57:45.367Z'
 sourcePath: _posts/2016-07-18-what-is-structured-watertm.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=UkZNpeekiXs'
 keywords: []
 related: []
 author: []
-dateModified: '2016-07-18T19:54:57.363Z'
+dateModified: '2016-07-18T19:57:39.476Z'
 title: Watch this video to understand what Structured Water is!
 app_links: []
 publisher:
