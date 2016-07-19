@@ -17,3 +17,7 @@ navigation:
     url: 'http://structuredwateraz.com'
     name: Store
     type: external
+  - id: 'http://structuredwateraz.com/about'
+    url: 'http://structuredwateraz.com/about'
+    name: About
+    type: external
